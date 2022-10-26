@@ -23,11 +23,11 @@ skills:
     skill: 
       - Sweet hands
   - category: Driving  
-      - Category "D" drivings license
+      - Category"D"drivings license
       
 interests:
-   -idiom: Basketball 
-   -idiom: Chess
+   - idiom: Basketball 
+   - idiom: Chess
    
 # Profile
 profile: |
@@ -38,7 +38,7 @@ profile: |
 projects:
   - title: Self driving mini car
     details: |
-      During the first year of my studues my lab team team undertook the design and build of a self-driving mini car able to recognize and avoid obstacles.
+      During the first year of my studies, my lab team team undertook the design and build of a self-driving mini car able to recognize and avoid obstacles.
       The process included the design of a recognition system using light sensors and the programming of a driving system on an Arduino,
       that would interact with the received information from the sensors.
 
