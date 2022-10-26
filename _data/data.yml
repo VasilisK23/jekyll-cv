@@ -16,18 +16,19 @@ education:
   - degree: BEng in electrical engineering and electronics
     time: 2017-2020
     university: University of Liverpool
-
-
+ 
+ 
 skills:
   - category: Soldering 
     skill: 
       - Sweet hands
   - category: Driving  
-      - Category"D"drivings license
-      
+    skill: Category"D"drivings license
+  
+  
 interests:
-   - idiom: Basketball 
-   - idiom: Chess
+  - idiom: Basketball 
+  - idiom: Chess
    
 # Profile
 profile: |
