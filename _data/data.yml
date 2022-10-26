@@ -34,22 +34,6 @@ profile: |
   Electrical engineering background with a compulsion to UX/UI design.
   Aspiring to know more about frontend and even wet my feet with some backend.
 
-# Experience
-experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
-
-
-
 
 projects:
   - title: Self driving mini car
