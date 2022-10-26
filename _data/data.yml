@@ -11,24 +11,27 @@ languages:
   - idiom: English
   - idiom: German
   - idiom: Greek
-
-education:
-  - degree: BEng in electrical engineering and electronics
-    time: 2017-2020
-    university: University of Liverpool
- 
- 
-skills:
-  - category: Soldering 
-    skill: 
-      - Sweet hands
-  - category: Driving  
-    skill: Category"D"drivings license
   
   
 interests:
   - idiom: Basketball 
   - idiom: Chess
+  
+  
+education:
+  - degree: BEng in electrical engineering and electronics
+    time: 2017-2020
+    university: University of Liverpool  
+  
+  
+skills:
+  - category: Soldering 
+    skill: 
+      - Sweet hands
+  - category: Driving  
+    skill: Category "D" drivings license
+  
+ 
    
 # Profile
 profile: |
