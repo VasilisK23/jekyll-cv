@@ -1,51 +1,38 @@
-name: John Doe
+name: Vasileios Kakoulidis
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
-
+  email: vasileioskakoulidis@gmail.com
+  github: VasilisK23
+  
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: German
+  - idiom: Greek
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BEng in electrical engineering and electronics
+    time: 2017-2020
+    university: University of Liverpool
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
 
 skills:
-  - category: Backend
+  - category: Soldering 
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
-
+      - Sweet hands
+  - category: Driving  
+      - Category "D" drivings license
+      
+interests:
+   -idiom: Basketball 
+   -idiom: Chess
+   
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Electrical engineering background with a compulsion to UX/UI design.
+  Aspiring to know more about frontend and even wet my feet with some backend.
 
 # Experience
 experience:
@@ -60,49 +47,21 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Self driving mini car
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      During the first year of my studues my lab team team undertook the design and build of a self-driving mini car able to recognize and avoid obstacles.
+      The process included the design of a recognition system using light sensors and the programming of a driving system on an Arduino,
+      that would interact with the received information from the sensors.
 
-  - title: Cool Project 
-    link: #
+  - title: Lifeguard board
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Design of a mechanism that would recognize any deviation on a lifeguard’s save-board when a person is placed upon it.
+      The suggested solution was the implementation of water level sensors that indicate differences on the water level on each side.
+      LEDs were used as indicators, whose frequency depended on the level of deviation.
+      A heart and pressure sensor were also added on the board.
+      The system was designed using Arduino.
